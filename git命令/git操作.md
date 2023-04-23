@@ -18,3 +18,7 @@
 9、git push -u origin dev; git push -u origin fix
 
 10、git checkout main
+
+11、git merge dev(假设此时为main分支)
+
+12、git pull origin main(假设此时为dev分支)
